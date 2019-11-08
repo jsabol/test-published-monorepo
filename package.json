@@ -20,6 +20,9 @@
     "node": ">=10.0.0"
   },
   "private": true,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "workspaces": [
     "packages/*"
   ],
