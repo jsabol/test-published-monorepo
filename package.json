@@ -1,0 +1,29 @@
+{
+  "name": "@jsabol/test-published-monorepo",
+  "version": "1.0.0",
+  "description": "An example for a monorepo with packages published on the github registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "lerna run test --stream --no-bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsabol/test-published-monorepo.git"
+  },
+  "author": "Juliet Sabol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsabol/test-published-monorepo/issues"
+  },
+  "homepage": "https://github.com/jsabol/test-published-monorepo#readme",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^3.18.4"
+  }
+}

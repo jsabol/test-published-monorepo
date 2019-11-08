@@ -1,0 +1,11 @@
+# installed pacakges
+node_modules
+lerna-debug.log
+**/yarn-error.log
+
+# coverage
+**/.coverage
+**/.nyc_output
+
+# storybook
+**/storybook-static
