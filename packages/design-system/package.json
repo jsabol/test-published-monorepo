@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "author": "",
   "license": "ISC",
@@ -14,12 +17,31 @@
   },
   "private": true,
   "engines": {
-    "node": ">=10.0.0"
+    "node": "^10.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "eslintConfig": {
-    "extends": "@jsabol/eslint-config/browser-babel"
+    "extends": "@jsabol/eslint-config/node-no-babel"
   },
   "devDependencies": {
-    "@jsabol/eslint-config": "1.0.0"
-  }
+    "@babel/core": "^7.7.2",
+    "@jsabol/eslint-config": "1.0.0",
+    "@storybook/addon-actions": "^5.2.5",
+    "@storybook/addon-links": "^5.2.5",
+    "@storybook/addons": "^5.2.5",
+    "@storybook/preset-scss": "^1.0.2",
+    "@storybook/react": "^5.2.5",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "node-sass": "^4.13.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {}
 }

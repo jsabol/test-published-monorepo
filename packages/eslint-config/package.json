@@ -16,7 +16,10 @@
     "node": ">=10.0.0"
   },
   "eslintConfig": {
-    "extends": "jsabol/node-no-babel"
+    "extends": "@jsabol/eslint-config/node-no-babel"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "babel-eslint": "^10.0.3",
