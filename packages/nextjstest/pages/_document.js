@@ -1,5 +1,5 @@
 // pages/_document.js
-import Document, { Main, NextScript } from "next/document";
+import Document, { Head, Main, NextScript } from "next/document";
 
 const pagesWithoutReact = ["/"];
 
@@ -8,6 +8,7 @@ export default class MyDocument extends Document {
     const { __NEXT_DATA__ } = this.props;
     return (
       <html>
+        <Head></Head>
         <body>
           <Main />
           {!pagesWithoutReact.includes(__NEXT_DATA__.page) ? (

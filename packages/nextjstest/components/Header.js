@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Button } from "@jsabol/design-system";
 
 const linkStyle = {
   marginRight: 15
@@ -11,9 +12,10 @@ const Header = () => (
         Home
       </a>
     </Link>
-    <Link href="about">
-      <a style={linkStyle}>About</a>
+    <Link href="/most-popular/">
+      <a style={linkStyle}>Popular</a>
     </Link>
+    <Button>test</Button>
   </div>
 );
 

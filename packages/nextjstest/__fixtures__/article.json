@@ -1,0 +1,201 @@
+{
+  "date_published_iso": "2019-11-05T09:28:00-05:00",
+  "disqus_identifier": "mt601399",
+  "image": {
+    "attribution": "Verity Slade",
+    "caption": "",
+    "alt_text": "An illustration of a scientist looking at a test tube rack filled with miscellaneous items.",
+    "attribution_url": null,
+    "thumbs": {
+      "square": {
+        "width": 500,
+        "name": "square",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square.jpg?mod=1572981533",
+        "ref_id": 10542442,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square.jpg?mod=1572981533",
+        "id": 10542442,
+        "height": 500
+      },
+      "app_lead": {
+        "width": 640,
+        "name": "hero_wide_640",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/hero_wide_640.jpg?mod=1572981533",
+        "height": 400,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/hero_wide_640.jpg?mod=1572981533",
+        "id": 10542469,
+        "ref_id": 10542460
+      },
+      "lead": {
+        "width": 570,
+        "name": "lead",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead.jpg?mod=1572981533",
+        "ref_id": 10542424,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead.jpg?mod=1572981533",
+        "id": 10542436,
+        "height": 321
+      },
+      "lead_large": {
+        "width": 615,
+        "name": "lead_large",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_large.jpg?mod=1572981533",
+        "ref_id": 10542424,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_large.jpg?mod=1572981533",
+        "id": 10542427,
+        "height": 365
+      },
+      "thumb_wide": {
+        "width": 210,
+        "name": "thumb_wide",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/thumb_wide.jpg?mod=1572981533",
+        "ref_id": 10542460,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/thumb_wide.jpg?mod=1572981533",
+        "id": 10542460,
+        "height": 130
+      },
+      "lead_960_540": {
+        "width": 960,
+        "name": "lead_960_540",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_960_540.jpg?mod=1572981533",
+        "ref_id": 10542424,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_960_540.jpg?mod=1572981533",
+        "id": 10542430,
+        "height": 540
+      },
+      "square_250": {
+        "width": 250,
+        "name": "square_250",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square_250.jpg?mod=1572981533",
+        "ref_id": 10542442,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square_250.jpg?mod=1572981533, https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square.jpg?mod=1572981533 2x",
+        "id": 10542445,
+        "height": 250
+      },
+      "facebook": {
+        "width": 960,
+        "name": "facebook",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/facebook.jpg?mod=1572981533",
+        "ref_id": 10542439,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/facebook.jpg?mod=1572981533",
+        "id": 10542439,
+        "height": 500
+      },
+      "app_square": {
+        "width": 500,
+        "name": "square",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square.jpg?mod=1572981533",
+        "height": 500,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/square.jpg?mod=1572981533",
+        "id": 10542442,
+        "ref_id": 10542442
+      },
+      "lead_960": {
+        "width": 960,
+        "name": "lead_960",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_960.jpg?mod=1572981533",
+        "ref_id": 10542424,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_960.jpg?mod=1572981533",
+        "id": 10542433,
+        "height": 540
+      },
+      "thumb_wide_medium": {
+        "width": 250,
+        "name": "thumb_wide_medium",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/thumb_wide_medium.jpg?mod=1572981533",
+        "ref_id": 10542460,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/thumb_wide_medium.jpg?mod=1572981533",
+        "id": 10542463,
+        "height": 155
+      },
+      "thumb_wide_300": {
+        "width": 300,
+        "name": "thumb_wide_300",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/thumb_wide_300.jpg?mod=1572981533",
+        "ref_id": 10542460,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/thumb_wide_300.jpg?mod=1572981533",
+        "id": 10542466,
+        "height": 185
+      },
+      "hero_wide_640": {
+        "width": 640,
+        "name": "hero_wide_640",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/hero_wide_640.jpg?mod=1572981533",
+        "ref_id": 10542460,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/hero_wide_640.jpg?mod=1572981533",
+        "id": 10542469,
+        "height": 400
+      },
+      "lead_720_405": {
+        "width": 720,
+        "name": "lead_720_405",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_720_405.jpg?mod=1572981533",
+        "ref_id": 10542424,
+        "srcset": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/lead_720_405.jpg?mod=1572981533",
+        "id": 10542424,
+        "height": 405
+      }
+    },
+    "pk": 1448314
+  },
+  "article_type": "blog",
+  "url_fbinstant": "https://www.theatlantic.com/facebook-instant/article/601399/",
+  "rubric": {
+    "url": "https://www.theatlantic.com/health/",
+    "pk": 4,
+    "name": "Health",
+    "slug": "health"
+  },
+  "canonical_url": "https://www.theatlantic.com/health/archive/2019/11/patrick-arnold-ketones-baseball-balco/601399/",
+  "cinemagraph": null,
+  "has_paywall": false,
+  "embed_code": null,
+  "is_freelance": true,
+  "original_url": "https://www.theatlantic.com/health/archive/2019/11/patrick-arnold-ketones-baseball-balco/601399/",
+  "content_styles": "https://cdn.theatlantic.com/assets/static/a/frontend/dist/theatlantic/css/api-content-styles.fd1ac69139b7.css",
+  "content": "<p class=\"dropcap\">A<span class=\"smallcaps\">fter 30 minutes</span>, the rat should have been dead. Sealed in a capsule-shaped chamber, the animal was breathing pure oxygen at a pressure high enough to cause a normal rat to have a seizure in five to 10 minutes. Dominic D’Agostino, a researcher at the University of South Florida, stood by, ready to flush the chamber with fresh air and rescue the creature at the first signs of a problem. But 30 minutes became 40 minutes, and still the rat appeared unbothered. At an hour, D’Agostino could only gaze at it on a video monitor with wonder. “The rat was just kind of staring back at us and grooming itself,” he says.</p><p>Shortly before placing the rat inside the chamber, D’Agostino had injected a new, one-of-a-kind molecule down the animal’s throat. Much of D’Agostino’s work is funded by the U.S. Department of Defense’s Office of Naval Research, and this experiment, which he conducted in mid-2011, was his first test of whether the new molecule could help a rat withstand an onslaught of oxygen. The hope was to one day do the same for Navy divers, who can experience devastating oxygen-toxicity seizures on deep dives.</p><p>As D’Agostino watched his record-breaking rat relax in the chamber, however, his mind raced through even bigger medical implications. Many people with epilepsy have seizures similar to those caused by oxygen toxicity; if all went well, perhaps his new molecule could reduce those, too. Even more tantalizing, preliminary research on similar molecules had already hinted at possible benefits for patients with a wide range of diseases, including Parkinson’s and Alzheimer’s disease and some cancers.</p><p>The substance D’Agostino gave the rat was a lab-created compound that works by increasing levels of ketone bodies, molecules that the liver produces from fat when animals fast or eat very few carbohydrates. Naturally made ketones make it possible to fuel the brain when glucose is running low, a trick designed by evolution to allow our ancestors to survive for long stretches with little or no food. Today, ketones are best known as the driving force behind the ketogenic diet, the low-carb, high-fat <a href=\"https://www.menshealth.com/nutrition/a25775330/keto-diet-history/\">health craze</a> that has led many Americans to eat huge slabs of beef and add heavy cream to their coffee.</p><p>The keto diet amounts to a strict Atkins diet, and people often turn to it in an attempt to lose weight. The scientific evidence on its effectiveness is limited, but enthusiasts swear by the diet’s power to ward off hunger, increase mental alertness, and boost athletic endurance. Meanwhile,  scientists have known for decades that the keto diet can prevent epileptic seizures even when pharmaceutical treatments have failed. But the work of D’Agostino and a handful of other pioneering ketone researchers over the past decade has also led scientists at Harvard, Yale, and other top institutions to consider the diet’s potential to treat other diseases. Siddhartha Mukherjee, an oncologist and the author of <em>The Emperor of All Maladies</em>, a Pulitzer Prize–winning history of cancer science, is <a href=\"https://www.theatlantic.com/health/archive/2019/05/food-cancer/589714/\">among those interested</a> in whether the ketogenic diet could have a role in cancer therapy.</p><p>D’Agostino’s impervious rat pointed toward a workaround to one very big problem in this line of research: Dieting is hard. Most people struggle to stick with a ketogenic eating plan in the long term. If a synthetically formed ketone drink or pill could provide many of the possible benefits of the keto diet without someone having to give up bread forever, it could, in theory, be a huge medical leap.</p><p>When D’Agostino first began looking into synthetic ketones, other researchers had already synthesized a ketone molecule, known as a monoester, with funding from the U.S. military. A monoester raises the level of one of the two primary ketones our bodies make naturally. D’Agostino wanted to study the effects of a diester, a molecule designed to elevate two different types of ketone bodies at once. But after more than a year of trying, D’Agostino, who does not synthesize new chemical compounds himself, couldn’t find an affordable way to make the powerful molecule that he would later test on his rat. “Literally, I would be on my phone all day calling people, trying to make this happen,” he says.</p><p>The breakthrough came in the fall of 2009, when D’Agostino pursued an idea that was both perfectly logical and perhaps a little bit crazy. He did know of one guy who might be able to make the diester molecule he wanted. The logical part? The man was a brilliant chemist with a proven record of creating novel organic compounds. The slightly crazy part? The man was also an ex-con who had been at the center of one of the biggest scandals in the history of professional sports.</p><p class=\"dropcap\">W<span class=\"smallcaps\">ere D’Agostino</span> a more typical scientist, he might have waited until he found funding for the diester molecule via a more conventional route. But D’Agostino is far from a typical scientist. He played football in high school and, at the age of 44, maintains a Schwarzenegger-esque physique. Stories that circulate about him among his friends and colleagues are mind-boggling. He <a href=\"https://tim.blog/2015/11/03/dominic-dagostino/\">has claim</a><a href=\"https://tim.blog/2015/11/03/dominic-dagostino/\">ed</a> that he can hold his breath for almost four minutes and that he once deadlifted 500 pounds 10 times in a row—an impressive set for any weightlifter, but D’Agostino says he did it after fasting for a week. “I have, like, sadistic OCD qualities where I’ll just keep doing it, either until I die or I don’t,” he says.</p><p>D’Agostino is soft-spoken and sounded embarrassed when I asked about these superhuman feats. But such extreme acts are a window into his science as much as his personality. He is a well-regarded academic who frequently publishes in respectable scientific publications. At the same time, he is at the forefront of a community of obsessive biohackers who revel in pushing their bodies to places few bodies have ever been pushed. For D’Agostino, ketones, with their appeal to both scientists and biohackers, were a perfect match between researcher and subject.</p><p>And so, when a friend in the bodybuilding community suggested that D’Agostino ask the chemist Patrick Arnold for help on his diester molecule, D’Agostino took the idea seriously. Arnold, to be sure, was an unusual option. If there were a Nobel Prize for anabolic steroids, he would have won it, probably more than once. In the summer of 1998, a commercially available supplement that Arnold had popularized, androstenedione—andro, for short—was spotted in the locker of the baseball slugger Mark McGwire. Andro is a prohormone that becomes testosterone after it’s converted in the body, and it was widely thought to be the explanation for McGwire’s astonishing power at the plate that year. (McGwire admitted to taking andro, but the supplement wasn’t banned by Major League Baseball at the time.)</p><p>Five years later, another one of Arnold’s creations landed him in a much bigger scandal: He was identified as the man who had created “the Clear,” the nickname for the designer steroid that the now infamous nutritional-supplement company Bay Area Laboratory Co-operative (BALCO) distributed to Barry Bonds, Marion Jones, and other celebrity athletes. The BALCO scandal led to a congressional investigation and even made its way into President George W. Bush’s State of the Union address in 2004. Arnold became known as the “rogue chemist” behind BALCO and spent three months in 2006 in a West Virginia federal prison. That same year, <em>Sports Illustrated</em> ran a profile of him under the headline “<a href=\"https://www.si.com/vault/2006/10/09/8390409/is-this-dr-evil\">Is This Dr. Evil?</a>” The article described his lab as “a modern Frankenstein’s castle.”</p><p>Today, Arnold readily acknowledges that he had gone rogue. In the sports-nutrition industry, he says, “being ‘Dr. Evil’ sells products.” But questions about his chemistry annoy him. His lab, he says, was very sophisticated and well kept: “There was nothing ‘Frankenstein’ about it.”</p><aside class=\"callout-placeholder\" data-source=\"curated\"></aside><p>Before reaching out for help on the diester molecule, D’Agostino looked Arnold up online and found his posts on bodybuilding message boards—the type of boards on which serious lifters debate the finer points of nutrition, supplements, and, sometimes, anabolic steroids. Arnold, who had become something of a celebrity on the boards, rarely missed a chance to show off his vast knowledge. D’Agostino says that he is “sort of indifferent to steroids.” Arnold, he reasoned, had made “a lot of different things over the years”—some legal and some not—to stretch the limits of human performance. While steroids had rocked the world of professional baseball, they seemed far less scandalous in the bodybuilding world with which D’Agostino was familiar. Besides, he says, “I had exhausted all my sources in academia. What did I have to lose?”</p><p>D’Agostino shot Arnold a message on Facebook. Hoping to spark Arnold’s interest in the project, he pointed out that, in addition to possible medical benefits, synthetic ketones might hold promise for performance enhancement. When the message arrived, Arnold was three years out of prison and back at his lab in Seymour, Illinois, a small town on the outskirts of Champaign. He had returned to the work he knew best: making and marketing his own lines of nutrition supplements.</p><p>But things weren’t going well. His new company was in disarray—and in the crosshairs of another federal investigation. D’Agostino’s out-of-the-blue note opened the possibility of reinventing Arnold’s business. Perhaps, he thought, it might even redeem his reputation.</p><p class=\"dropcap\">A <span class=\"smallcaps\">Ph.D. researcher</span> and an ex-con without an advanced degree make for an unlikely pairing. But as they developed a working relationship, D’Agostino and Arnold saw that they had plenty in common. Over the years, Arnold has experimented with some of his own products, and he, too, once had the ripped physique of a competitive bodybuilder. Now 53, he still has the thick neck and boulder-like shoulders of someone who spends a lot of time at the gym.</p><p>In another life, Arnold might have gone down the same path as D’Agostino and become a successful academic or found a job with a pharmaceutical company. But differences between the two men were apparent from a young age. D’Agostino grew up in central New Jersey, baling hay and driving tractors on his neighbor’s 200-acre farm. After falling in love with biology in high school, he went to Rutgers, where he became a serious student. Arnold grew up in Guilford, Connecticut, a small coastal town. He was an erratic student, excelling in the classes he found interesting, particularly chemistry, and floundering in the ones he didn’t.</p><p>“I was antisocial,” says Arnold, who comes off in conversation as an unusual hybrid: one part musclehead bro, one part chemistry savant. “I got to school, I’m not smiling. Everyone else is smiling. Why aren’t you smiling? Fuck you. You know? Because you don’t understand.”</p><p>Arnold and his two older brothers spent a lot of time in their basement, where, after finding an old set of weights at their grandfather’s house, they set up a small gym. By high school, Arnold had already fallen into the role of nutrition and muscle-building guru he would assume later in life. His brother John had begun to compete in bodybuilding competitions, and Arnold’s job was to figure out what John should eat each day as he trained. Arnold would make his own supplements in the family kitchen, forming small rolls from milk, egg-protein powder, peanut butter, and honey, then freezing them for later use. “I won my first contest because of Patrick,” John says.</p><p>When Arnold read about performance-enhancing drugs as a kid, the warnings against using them only sparked his curiosity. He first tried steroids while working in construction after dropping out of the University of New Haven. He eventually finished his degree and later took several graduate-level courses in organic chemistry. But his real training in making steroids, he says, began in 1990, when he started working for a company in New Jersey that made chemicals for hair gels and conditioners, among other products. Arnold’s entry-level work—synthesizing simple molecules and then waiting around to check the temperature of the reactions—was mind-numbing for someone of his abilities. But the job came with valuable perks: access to a lab and a well-stocked chemistry library right on Arnold’s floor.</p><p>He tried synthesizing testosterone first, using extract from a chopped-up yam, he says, but only succeeded in making a huge mess. That experience led Arnold to an insight that would serve him well throughout his career: If you want to synthesize chemical compounds, don’t start from scratch. Instead, find the closest raw material that’s commercially available. “It’s like if you want to build a car,” Arnold <a href=\"https://tim.blog/2016/03/02/patrick-arnold/\">told</a> the self-help guru Tim Ferriss a few years ago. “You don’t make your own rubber or make your own steel.”</p><p>Over the years, as Arnold continued to read and absorb more of the scientific literature on steroids, his knowledge of commercially available compounds would prove useful again and again. He says he first realized the potential performance-enhancing benefits of andro, the drug later used by McGwire, by reading old patents from the former East Germany.</p><p>The Clear, which Arnold would develop years later, wasn’t so much a stroke of creative genius as a testament to the breadth of his knowledge. Arnold had read about a molecule called norbolethone in some of the early literature on anabolic steroids, and he knew it had the power to add muscle and mass. He didn’t have a way to make norbolethone from scratch, but he recognized that the steroid’s chemical structure was very similar to that of progestin, a molecule used in birth-control pills. He soon discovered that it was easy to order progestin from China, and that by adding hydrogen, he could turn it into norbolethone.</p><p>When officials from the U.S. Anti-Doping Agency <a href=\"https://www.washingtonpost.com/archive/sports/2003/03/08/drug-testers-have-designs-on-new-steroid/9df30794-0fe7-464a-baff-056e67728a30/\">caught on</a>, Arnold looked up other forms of progestin and discovered one that could be transformed into a steroid in almost the same way. That one would ultimately end up in the hands of Barry Bonds and land Arnold in prison in 2006. Arnold’s troubles didn’t end there, however. A few years after he started his new nutritional-supplements company in Illinois—strictly legal this time, he insists—a relief pitcher for the Phillies tested positive for andro, which Major League Baseball had since banned. The pitcher had been using a then-allowed testosterone booster, 6-OXO, made by Arnold’s new company, which led federal investigators to search his lab, on the suspicion that Arnold had spiked the 6-OXO with andro.</p><p>Arnold adamantly denies this accusation, and no charges were ever filed against him. But the investigation made it impossible for him to continue selling 6-OXO, his most lucrative product, and all but wiped out the business he was trying to build. Arnold now describes the affair as a “huge nightmare.” “I’m not saying my life was completely ruined,” he <a href=\"https://tim.blog/2016/03/02/patrick-arnold/\">once said</a> of the raid, “but I’m saying that it was significantly downgraded.”</p><p class=\"dropcap\">N<span class=\"smallcaps\">ot long after</span> the 6-OXO ordeal, D’Agostino contacted Arnold and the two got to work making the ketone diester. They already had a recipe, or “synthesis,” to follow: The molecule had first been synthesized in the early 1970s by Henri Brunengraber, a biochemist at Case Western Reserve University, who was then working on compact foods that astronauts might be able to take on multiyear journeys to Mars. But making the molecule turned out to be far more complicated than Arnold had anticipated.</p><p>The challenge, as he explains it, was in finding a way to produce the diester efficiently so that he could supply D’Agostino with enough for a series of different studies. It was “kind of a bitch,” Arnold recalls. “I tried it and it didn’t work, and it didn’t work.” Getting a molecule that was almost right was relatively easy; perfecting it was something else. There was no flash of inspiration. Arnold describes it as “step-wise kind of a revelation,” involving “dozens and dozens and dozens of experiments.”</p><p>After six months, the first batch arrived at D’Agostino’s lab in a cardboard box. Inside, wrapped in tinfoil, was a cylindrical tube holding 10 milliliters of an amber-colored liquid. “I’m not even sure it had any markings on it,” D’Agostino says. It was only enough for a few small tests, but D’Agostino’s excitement grew with each one. He says he began going to the lab in the middle of the night just to see how his rats were doing. For the most part, they were doing remarkably well. The diester raised their ketone levels rapidly, regardless of what they were eating, and kept the levels unusually high for hours.</p><p>Since the first test in 2011, D’Agostino and other researchers have shown that the diester can extend the lives of rats with a particular type of brain cancer, even when the rats are following normal diets. In rodents, at least, the compound is also more effective than other ketone supplements at preventing the oxygen-toxicity seizures that D’Agostino initially set out to study. And it can reduce seizures and other symptoms in mouse models of Angelman syndrome, a devastating genetic disease with few treatment options.</p><p>D’Agostino says that he now receives a request for the molecule from other scientists at least once a week. The research is “exploding.” Most studies are still being done with animals, but human trials for several different neurological conditions are now in the early stages. Thus far, the only completed human trial of the diester was not especially promising: It <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5660098/\">tested</a> the diester’s impact on elite cyclists and found that it slowed them down and upset their stomachs. But D’Agostino maintains that the molecule was never intended to improve athletic performance and that, in this case, the diester was given to the cyclists in a formulation that was bound to cause gastric distress. (In its purest form, he says, the diester is almost intolerable: “The taste itself actually causes most people to throw up.”)</p><p>Commercially, the availability of ketones is growing, as well. A ketone monoester created by Richard Veech, a pioneer of ketone research at the National Institutes of Health, and Kieran Clarke, of the University of Oxford, is now being <a href=\"https://www.theatlantic.com/health/archive/2017/11/keto-in-a-bottle/545129/\">sold by the startup HVMN</a> at $33 per serving. When I spoke with Veech, he sounded all but convinced that the monoester can not only help treat Parkinson’s and other neurological diseases, but can also protect cells from radiation, which damages them in much the same way as oxygen toxicity. Clarke believes that the ketone monoester will eventually be “more or less a general tonic for the general population.”</p><p>It’s still far too soon to say with any certainty that ketones in a bottle or pill will emerge as a valuable therapeutic tool or athletic performance enhancer. What works for rats and mice often does not work for humans. “This is a 5-mile race,” Mike McCandless, a supplement maker who has funded some of D’Agostino’s research, says. “We’re literally at the 10-foot mark.”</p><p>Eugene Fine, of the Einstein College of Medicine, is studying the ketogenic diet for the treatment of cancer. He is convinced of the diet’s safety, noting that people have been successfully eating low-carbohydrate, Atkins-style diets for decades. He thinks it’s unlikely that ketone supplements will prove harmful, but he cautions that we don’t yet have long-term studies on the effects of  consuming ketones and carbohydrates at the same time—as would happen if someone took a ketone supplement on a typical American diet.</p><p>Researchers still aren’t even certain about the fundamental reason ketogenic diets might benefit health. Gary Yellen, a Harvard researcher who studies how ketogenic diets prevent epileptic seizures, says that while there are almost certainly multiple mechanisms at play, his research suggests that when it comes to the brains of people with epilepsy, it’s the shift away from burning glucose that makes the difference. “I don’t believe that ketone bodies themselves are the key to the diet,” Yellen says.</p><p>D’Agostino, however, still suspects that the ketones may be playing an essential role. His own research suggests that ketone bodies function as signaling molecules inside of cells, altering gene expression in ways that are associated with life extension. In 2015, a<a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352123/\"> paper</a> in <em>Nature Medicine </em>that D’Agostino cowrote with a leading inflammation researcher at Yale and other scientists found that some ketone supplements, including the diester Arnold created, seem to have striking anti-inflammatory effects when tested on mice, which could help prevent disease. D’Agostino says most of his research is now devoted to studying this phenomenon and other ways in which ketones might affect gene expression.</p><p class=\"dropcap\">W<span class=\"smallcaps\">here Patrick Arnold</span> will ultimately fall in the story of ketones is difficult to predict. He has continued to collaborate with D’Agostino, and even has launched his own foray into ketone supplements, but he’s still somewhat unknown in the ketone world. Brunengraber, the chemist who first synthesized the diester molecule, didn’t know who Arnold was before I asked about him. Clarke, the Oxford researcher who cocreated the ketone monoester, said she had heard of Arnold but had never met him. “He is probably a good chemist,” she said. “I don’t know about his principles.”</p><p>Arnold says that most of the people who know him through his ketone work haven’t heard of the BALCO scandal. “Occasionally, someone says, ‘Oh, don’t trust him. He’s a criminal,’” he says. But even more people, he claims, tell him that they “don’t give a damn.”</p><p>Arnold, it’s safe to say, is an imperfect vessel for any scientific advance. For many baseball fans, BALCO does remain a painful memory. Arnold’s contributions to ketone research can’t undo his role in that scandal or the damage it did to professional sports. But his checkered past is unlikely to matter to people with epilepsy or cancer if ketone supplements one day help them live longer, healthier lives.</p><p>Jason Karlawish, a professor of medicine, medical ethics, and health policy at the University of Pennsylvania, believes that Arnold’s history shouldn’t discourage mainstream scientists like D’Agostino from working with the diester, as long as Arnold’s scientific work itself is valid. “D’Agostino took an ethical risk only if there was a chance Arnold could use their work for dangerous ends,” Karlawish says.</p><p>D’Agostino maintains that there was “no risk” of Arnold doing harm. And Arnold says he has no interest in making any dangerous substance. He is eager, though, to make something profitable. Almost as soon as D’Agostino reached out to him in 2009, Arnold began dreaming up new ketone products that he could sell as safe and effective weight-loss or athletic-performance supplements. Today, Arnold sells products like ketone salts via KetoSports, a new company that occupies the same lab and facilities where Arnold made his more infamous creations.</p><p>As D’Agostino’s own research has progressed—in 2017, he <a href=\"https://www.tampabay.com/news/science/space/usf-professor-joins-undersea-nasa-trek/2326831\">spent 10 days</a> living on ketone supplements on a NASA mission at the bottom of the Atlantic Ocean—he has kept Arnold up to date on his latest findings. Arnold’s name even appears as one of the coauthors on some of the papers D’Agostino has published in scientific journals, including an article in the <em>International Journal of Cancer</em>. Arnold, in turn, has highlighted developments in cancer and other health research on Facebook and other online platforms. “I don’t think I’ve seen him so focused in years, with this ketogenic thing,” says Arnold’s brother John. “This is his baby now.”</p><p>If ketone supplements do turn out to be more than yet another performance booster—and at least one brand marketing ketone-salt formulations first dreamed up by Arnold and D’Agostino <a href=\"https://www.facebook.com/TheKetoSource/posts/wow-another-amazing-better-story-shared-via-pruvit-this-is-why-we-are-so-passion/1766401467020556/\">already highlights</a> testimonials from children with epilepsy—much of the credit will go to D’Agostino, Veech, Clarke, and the other scientists who have advanced the field of ketone research. But some of the credit will have to go to Patrick Arnold. With more funding from the Office of Naval Research, D’Agostino has turned to a new lab that can make the diester in greater quantities and according to standards necessary for human trials, but he has not forgotten about what Arnold achieved. “Patrick is the reason my whole research program exists right now,” D’Agostino says, adding that he might have given up on science altogether if Arnold hadn’t succeeded in making the ketones he needed.</p><p>In 2006, Arnold told <em>Sports Illustrated</em> that he didn’t want BALCO to be his legacy. He couldn’t say, though, what exactly he wanted his legacy to be. Now he has his answer. He would prefer to be remembered as “the ketone guy” who “also did that stuff,” he says. He has been fortunate to work with a scientist as generous as D’Agostino. If he makes it big again, baseball fans might be less forgiving.</p>",
+  "primary_channel": {
+    "url": "https://www.theatlantic.com/health/",
+    "pk": 4,
+    "name": "Health",
+    "slug": "health"
+  },
+  "dek": "A chemist once at the center of an era-defining sports scandal now is eager to improve your health.",
+  "details": "https://www.theatlantic.com/api/2.0/articles/601399/",
+  "pk": 601399,
+  "has_comments": true,
+  "date_modified_iso": "2019-11-06T15:58:02-05:00",
+  "url_mobile_app": null,
+  "social": {
+    "twitter_share_image_url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/facebook.jpg?1572981533",
+    "share_text": "Patrick Arnold went to prison for his role in one of the biggest scandals in professional sports. Then he got a message from a desperate scientist. @samuelapple reports on what the pair's partnership might now mean for disease treatment:",
+    "share_dek": "",
+    "share_image_url": "https://cdn.theatlantic.com/assets/media/img/mt/2019/11/theatlantic_ARNOLD_final_teal/facebook.jpg?1572981533",
+    "seo_title": "Keto for Disease Treatment: A Notorious Ex-Con's Unlikely Role",
+    "share_title": null
+  },
+  "date_published": "November 5, 2019",
+  "authors": [
+    {
+      "bio": "<a href=\"https://www.theatlantic.com/author/sam-apple/\" class=\"author-link\" data-omni-click=\"inherit\">Sam Apple</a> teaches writing at the University of Pennsylvania.",
+      "display_name": "Sam Apple",
+      "name": "Sam Apple",
+      "url": "https://www.theatlantic.com/author/sam-apple/",
+      "twitter": "samuelapple",
+      "google_plus": null,
+      "facebook_username": "",
+      "email": null,
+      "short_bio": null,
+      "url_feed": "/feed/author/sam-apple/",
+      "headshot": {},
+      "pk": 24847,
+      "slug": "sam-apple"
+    }
+  ],
+  "url_amp": "https://amp.theatlantic.com/amp/article/601399/",
+  "date_modified": "November 6, 2019",
+  "url": "https://www.theatlantic.com/health/archive/2019/11/patrick-arnold-ketones-baseball-balco/601399/",
+  "title": "The Keto Diet’s Most Controversial Champion",
+  "list": "https://www.theatlantic.com/api/2.0/articles/",
+  "reviews": [],
+  "main_graphic_format": "image",
+  "content_assets": []
+}
