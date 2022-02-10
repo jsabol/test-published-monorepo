@@ -36,7 +36,7 @@
     "@storybook/react": "^5.2.5",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "sass-loader": "^8.0.0",
